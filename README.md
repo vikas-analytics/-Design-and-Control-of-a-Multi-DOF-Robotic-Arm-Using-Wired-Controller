@@ -41,7 +41,9 @@ The main objectives of this project are:
 * Develop a low-cost and programmable robotic platform.
 * Explore applications in automation, education, and research.
 
-The research specifically focuses on accurate, efficient, and repeatable robotic-arm operation.
+# Research Paper Publication Certificate :
+<img width="1022" height="722" alt="certificate" src="https://github.com/user-attachments/assets/9ab7ade4-002d-4b13-9ef6-6dd5aca50bde" />
+
 
 ---
 
